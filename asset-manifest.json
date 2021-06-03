@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Unvent/static/css/main.bc4e44cd.chunk.css",
-    "main.js": "/Unvent/static/js/main.d4a486fa.chunk.js",
-    "main.js.map": "/Unvent/static/js/main.d4a486fa.chunk.js.map",
+    "main.js": "/Unvent/static/js/main.963b2958.chunk.js",
+    "main.js.map": "/Unvent/static/js/main.963b2958.chunk.js.map",
     "runtime-main.js": "/Unvent/static/js/runtime-main.fa7ae0c3.js",
     "runtime-main.js.map": "/Unvent/static/js/runtime-main.fa7ae0c3.js.map",
     "static/js/2.e327e574.chunk.js": "/Unvent/static/js/2.e327e574.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fa7ae0c3.js",
     "static/js/2.e327e574.chunk.js",
     "static/css/main.bc4e44cd.chunk.css",
-    "static/js/main.d4a486fa.chunk.js"
+    "static/js/main.963b2958.chunk.js"
   ]
 }
